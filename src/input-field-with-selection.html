@@ -1,0 +1,40 @@
+<hhtml>
+
+    <head>
+        <style>
+            #my-input {
+                position: relative;
+                display: inline-block;
+                width: 100%;
+            }
+
+            #my-input-select-wrapper {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+            }
+
+            #my-input-select {
+                position: relative;
+                width: 100%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Das ist mein selbstgebaute Datalist:</h1>
+        <form>
+            <div class="form-container">
+                <input type="text" id="my-input" name="my-input">
+                <div class="my-input-select-wrapper">
+                    <select id="my-input-select" multiple size="3">
+                        <option>Option 1<br/> with break<a href="#link">link</a></option>
+                        <option>Option 2</option>
+                        <option>Option 3</option>
+                    </select>
+                </div>
+            </div>
+        </form>
+    </body>
+</hhtml>

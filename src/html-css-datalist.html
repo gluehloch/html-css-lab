@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <style>
+        #input {
+            position: relative;
+            display: inline-block;
+        }
+
+        .datalist-wrapper {
+            position: absolute;
+            left: 0;
+            width: 100%;
+        }
+
+        .datalist-wrapper select {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="hint-wrapper">
+        <form>
+            <label>Suggestions:</label>
+            <div id="input">
+                <input type="text" id="input-field" />
+                <div class="datalist-wrapper">
+                    <select class="availableDataSelection" multiple="">
+                        <option>a1</option>
+                        <option>a2</option>
+                        <option>a3</option>
+                        <option>a4</option>
+                        <option>a5</option>
+                    </select>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</body>
+
+</html>

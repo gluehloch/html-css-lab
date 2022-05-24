@@ -15,6 +15,7 @@ mit `<b>` aber z.B. nicht möglich.
 ### Bootstrap 4 Autocomplete Library
 
 * [Bootstrap 4 Autocomplete](https://github.com/Honatas/bootstrap-4-autocomplete)
+* [Bootstrap 4 mit jQuery autocomplete](https://jsfiddle.net/gotemkfr/)
 
 ## jquery UI + autocomplete
 Durchgängiges gleiches Layout in allen Browsern.

@@ -19,3 +19,9 @@ mit `<b>` aber z.B. nicht möglich.
 
 ## jquery UI + autocomplete
 Durchgängiges gleiches Layout in allen Browsern.
+
+## Popper bzw. Tippy.js
+
+* [Popper](https://popper.js.org/)
+* [Tippyjs](https://atomiks.github.io/tippyjs/)
+* 

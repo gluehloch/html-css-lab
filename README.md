@@ -24,4 +24,7 @@ Durchgängiges gleiches Layout in allen Browsern.
 
 * [Popper](https://popper.js.org/)
 * [Tippyjs](https://atomiks.github.io/tippyjs/)
-* 
+
+## Twitter Typeahead
+
+* [Twitter Typeahead](https://github.com/twitter/typeahead.js/) Nur leider seit 7 Jahren keine Änderungen.

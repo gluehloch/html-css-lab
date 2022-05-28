@@ -25,6 +25,7 @@ Durchgängiges gleiches Layout in allen Browsern.
 * [Popper](https://popper.js.org/)
 * [Tippyjs](https://atomiks.github.io/tippyjs/)
 
-## Twitter Typeahead
+## Auch gefunden, aber nicht ausprobiert
 
-* [Twitter Typeahead](https://github.com/twitter/typeahead.js/) Nur leider seit 7 Jahren keine Änderungen.
+* [Bootstrap 5 autocomplete](https://github.com/gch1p/bootstrap-5-autocomplete) auf GitHub.
+* [Twitter Typeahead](https://twitter.github.io/typeahead.js). Nur leider seit 7 Jahren keine Änderungen.

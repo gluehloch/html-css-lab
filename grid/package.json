@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "grid demo with webpack",
   "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+   },  
   "main": "index.js",
   "devDependencies": {
     "http-server": "^14.1.1",

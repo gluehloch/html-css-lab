@@ -1,0 +1,15 @@
+{
+  "name": "grid-demo",
+  "version": "1.0.0",
+  "description": "grid demo with webpack",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,34 @@
+.main-layout {
+    /*
+    min-height: 100vh;
+    min-height: 100dvh;
+    */
+
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-areas:
+    "header  header  header"
+    "sidebar content content"
+    "footer  footer  footer";
+    background-color: #fff;
+    color: #444;
+}
+
+
+.sidebar {
+    grid-area: sidebar;
+}
+
+.content {
+    grid-area: content;
+    position: relative;
+}
+
+.header {
+    grid-area: header;
+}
+
+.footer {
+    grid-area: footer;
+}

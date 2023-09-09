@@ -51,7 +51,7 @@
 
 .game {
     display: grid;
-    grid-template-columns: 1f 4fr 1fr;
+    grid-template-columns: 6f 2fr 2fr 2fr;
     margin: 5px;
     padding: 5px;
 }

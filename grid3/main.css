@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.grid-scroller {
+    overflow: scroll;
+    height: 100vh;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: auto;
+    grid-auto-flow: column; 
+    grid-auto-columns: 1fr;
+}
